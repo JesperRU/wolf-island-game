@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Wolf.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GrassRander.cs" Line="20" Column="22" />
+      <File FileName="Assets\Scripts\Rabbit.cs" Line="31" Column="17" />
+      <File FileName="Assets\Scripts\Grass.cs" Line="7" Column="23" />
+      <File FileName="Assets\Scripts\Wolf.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\ViewField.cs" Line="21" Column="20" />
+      <File FileName="Assets\Scripts\CameraMove.cs" Line="16" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="D:\UnityGameBlaBlaBlaOkey\Wolf Island\Assets\Scripts\Rabbit.cs" line="8" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
