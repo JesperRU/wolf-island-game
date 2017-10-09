@@ -7,7 +7,8 @@ public class Wolf : MonoBehaviour {
 	public float feedness = 50;
 	public float maxFeedness = 100;
 	public float speed = 6;
-	private bool Eating = false,isPregnant=false,child=true;
+	private bool isPregnant = false;
+	private bool child=true;
 	public bool isMale = true;
 	private Color stand,change;
 	private GameObject vr;

@@ -52,6 +52,9 @@
      <Compile Include="Assets\Scripts\Rabbit.cs" />
      <Compile Include="Assets\Scripts\ViewField.cs" />
      <Compile Include="Assets\Scripts\Wolf.cs" />
+     <None Include="Assets\Resources\TextResources\rabbit-names-en.txt" />
+     <None Include="Assets\Resources\TextResources\wolf-names.en-female.txt" />
+     <None Include="Assets\Resources\TextResources\wolf-names.en-male.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
